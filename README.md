@@ -1,1 +1,0 @@
-# Home-System-with-Touch-Screen-and-Ai-Model
