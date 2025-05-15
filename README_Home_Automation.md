@@ -96,16 +96,3 @@ project-root/
 ├── README.md
 ```
 
----
-
-## 👤 Author
-
-**Kareem Mansour Saad ElBaytany**  
-Mechatronics Engineering Student – Passionate about Embedded Systems & AI Integration  
-🔗 *[LinkedIn / Portfolio / GitHub link]*
-
----
-
-## 📜 License
-
-This project is open source under the MIT License.
